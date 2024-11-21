@@ -1,4 +1,5 @@
 import datetime
+import unittest
 
 def est_palindrome(chaine):
     # Supprimer les espaces et mettre en minuscules pour la comparaison
